@@ -1,0 +1,16 @@
+{
+  "name": "Ticketmaster",
+  "short_name": "Ticketmaster",
+  "description": "Buy Verified Tickets for Concerts, Sports, Theater and Events",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#024ddf",
+  "icons": [
+    {
+      "src": "//uk.tmconst.com/rc-44d1c8ec/images/logo/ticketmaster_black.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
